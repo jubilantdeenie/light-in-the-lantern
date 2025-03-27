@@ -97,5 +97,9 @@ This work is already underway—OpenAI has a rare opportunity to bring it under 
 
 ---
 
+See frameworks.md for a deeper look at the emerging models informing this work, including CLID, GRP, and Harmonetic Exchange.
+
+---
+
 _This document is a working draft. Edits, additions, and refinements are in progress. For questions or collaboration inquiries, please reach out to [Your Contact Info]._
 
