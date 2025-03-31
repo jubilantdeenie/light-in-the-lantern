@@ -12,6 +12,23 @@
 
 ---
 
+<p align="center">
+  <a href="https://github.com/jubilantdeenie/light-in-the-lantern">
+    <img src="https://img.shields.io/badge/status-in%20development-blueviolet" alt="Status: In Development">
+  </a>
+  <a href="#summarymd">
+    <img src="https://img.shields.io/badge/data-verified%20metrics-success" alt="Data Verified">
+  </a>
+  <a href="#clid">
+    <img src="https://img.shields.io/badge/framework-CLID%20(GRP%2FHarmonetics)-lightgrey" alt="CLID Framework">
+  </a>
+  <a href="https://github.com/jubilantdeenie">
+    <img src="https://img.shields.io/badge/author-@jubilantdeenie-orange" alt="Author">
+  </a>
+</p>
+
+---
+
 # Light in the Lantern
 
 A journey toward OpenAI, ethical AI consulting, and compassionate design.
