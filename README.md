@@ -1,3 +1,17 @@
+<p align="center">
+  <img src="assets/Lantern-Banner.png" alt="Light in the Lantern" width="100%">
+</p>
+
+<h1 align="center">Light in the Lantern</h1>
+
+<p align="center"><em>A journey toward OpenAI, ethical AI consulting, and compassionate design.</em></p>
+
+<p align="center">
+  <strong>Created by @jubilantdeenie</strong> ・ <em>Compassion-Led AI. Trust-Driven Results.</em>
+</p>
+
+---
+
 # Light in the Lantern
 
 A journey toward OpenAI, ethical AI consulting, and compassionate design.
