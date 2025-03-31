@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Lantern-Banner.png" alt="Light in the Lantern" width="100%">
+  <img src="assets/Lantern-banner.png" alt="Light in the Lantern" width="100%">
 </p>
 
 <h1 align="center">Light in the Lantern</h1>
