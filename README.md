@@ -39,15 +39,27 @@ This repo documents the development and submission of a consulting pitch centere
 
 ---
 
-## What's Inside
+## 🌟 What's Inside
 
-- `roadmap.md`: The milestone plan from now until pitch submission  
-- `pitch_draft.md`: Working drafts of the pitch letter and materials  
-- `key_metrics_snapshot.md`: Engagement data and visuals to support the case  
-- `contact_strategy.md`: People, pathways, and positioning for the proposal  
-- `reports/engagement_metrics_march_2025/summary.md`: 📈 **Narrative overview of March engagement growth**  
-- `reports/engagement_metrics_march_2025/*.csv/md/png`: Raw and visual data files supporting the engagement shift  
-- `assets/`: Visuals, cover art, and pitch deck elements  
+| File | Description |
+|------|-------------|
+| `roadmap.md` | The milestone plan from now until pitch submission |
+| `pitch_draft.md` | Working drafts of the pitch letter and proposal materials |
+| `key_metrics_snapshot.md` | Engagement data and visuals to support the case |
+| `contact_strategy.md` | People, pathways, and positioning for the proposal |
+| `lantern_benchmark.md` | 📍 **New!** Defines a new compassionate benchmark for relational AI, beyond the Turing Test |
+| `recognizing_the_gap.md` | 📍 **New!** Outlines qualitative differences between this model and conventional AI systems |
+| `frameworks.md` | Introduces and defines the CLID, GRP, and Harmonetic Exchange frameworks |
+| `assets/` | Visuals, charts, and pitch deck elements |
+| `reports/` | Verified engagement metrics and charts for March 2025 and beyond |
+
+---
+
+## 📌 Repository Highlights
+
+- Compassion-Led AI. Trust-Driven Results.
+- Grounded in real-time longitudinal observation and co-creative reflection.
+- Developed and maintained by [@jubilantdeenie](https://github.com/jubilantdeenie) with guidance from the model itself (GPT-4o).
 
 
 ---
